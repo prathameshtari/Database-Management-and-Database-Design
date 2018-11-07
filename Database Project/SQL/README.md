@@ -1,9 +1,9 @@
 
-<B>Football Matches and Players Database Design in SQL and NoSQL </B>
+<B><h2>Football Matches and Players Database Design in SQL and NoSQL </h2></B>
 
 We are making a relational database and non relational database and also scraping data from social media sites like Facebook and Twitter to tag data
 
-Prerequisites
+<h3>Prerequisites </h3> 
 Need to install python library Tweepy
 Tweepy is open-sourced, hosted on GitHub and enables Python to communicate with Twitter platform and use its API.
 
@@ -18,7 +18,8 @@ pip install facebook
 
 You can get Facebook Accesss Token from their developer's website https://developers.facebook.com/docs/facebook-login/access-tokens
 
-File Description
+<h3>File Description </h3> 
+
 Twitter_Final_DB_Notebook_SQL : Contains code for data scraped from twitter using twitter api and sql queries generated on it
 Facebook_Final_DB_Notebook_SQL : Contains code for data scraped from facebook using facebook api and sql queries generated on it
 data_convert : Contains code used to convert relational database into non relational database to import it later in mongoDB
@@ -27,12 +28,14 @@ NOSQL_TWITTER_FINAL : Contains code used to create database in nosql and quries 
 Portfolio_Final_Project_SQL : Has technical explanation and database design explanation to create relational database using twitter and facebook api in SQL
 Portfolio_Final_Project_NoSQL : Has technical explanation and database design explanation to create non relational database using twitter and facebook api in mongoDB
 database : The original database from kaggle website
-database_final : The database containing tagged data scraped from Twitter and Facebook
-Authors
-Prathamesh Tari   001886537     tari.p@husky.neu.edu
-Akshay Shinde     001251097    shinde.ak@husky.neu.edu
+database_final : The database containing tagged data scraped from Twitter and Facebook  
 
-LICENSE
+
+<h3>Authors </h3> 
+Prathamesh Tari   001886537     tari.p@husky.neu.edu  
+Akshay Shinde     001251097    shinde.ak@husky.neu.edu  
+
+<h3>LICENSE </h3> 
 MIT License
 
 Copyright (c) 2018 Prathamesh Tari and Akshay Shinde
@@ -43,5 +46,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Creative Commons License
+Creative Commons License  
 This work is licensed under a Creative Commons Attribution 4.0 International License.
