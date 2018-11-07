@@ -1,4 +1,6 @@
-Football Matches and Players Database Design in SQL and NoSQL  
+
+<B>Football Matches and Players Database Design in SQL and NoSQL </B>
+
 We are making a relational database and non relational database and also scraping data from social media sites like Facebook and Twitter to tag data
 
 Prerequisites
