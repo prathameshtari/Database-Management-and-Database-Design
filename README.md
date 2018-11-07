@@ -21,15 +21,15 @@ You can get Facebook Accesss Token from their developer's website https://develo
 
 <h3>File Description </h3> 
 
-Twitter_Final_DB_Notebook_SQL : Contains code for data scraped from twitter using twitter api and sql queries generated on it
-Facebook_Final_DB_Notebook_SQL : Contains code for data scraped from facebook using facebook api and sql queries generated on it
-data_convert : Contains code used to convert relational database into non relational database to import it later in mongoDB
-NOSQL_FACEBOOK_FINAL : Contains code used to create database in nosql and queries run on facebook on nosql database
-NOSQL_TWITTER_FINAL : Contains code used to create database in nosql and quries run on twitter data on nosql database
-Portfolio_Final_Project_SQL : Has technical explanation and database design explanation to create relational database using twitter and facebook api in SQL
-Portfolio_Final_Project_NoSQL : Has technical explanation and database design explanation to create non relational database using twitter and facebook api in mongoDB
-database : The original database from kaggle website
-database_final : The database containing tagged data scraped from Twitter and Facebook  
+Twitter_Final_DB_Notebook_SQL : Contains code for data scraped from twitter using twitter api and sql queries generated on it  
+Facebook_Final_DB_Notebook_SQL : Contains code for data scraped from facebook using facebook api and sql queries generated on it  
+data_convert : Contains code used to convert relational database into non relational database to import it later in mongoDB  
+NOSQL_FACEBOOK_FINAL : Contains code used to create database in nosql and queries run on facebook on nosql database  
+NOSQL_TWITTER_FINAL : Contains code used to create database in nosql and quries run on twitter data on nosql database  
+Portfolio_Final_Project_SQL : Has technical explanation and database design explanation to create relational database using twitter and facebook api in SQL  
+Portfolio_Final_Project_NoSQL : Has technical explanation and database design explanation to create non relational database using twitter and facebook api in mongoDB  
+database : The original database from kaggle website  
+database_final : The database containing tagged data scraped from Twitter and Facebook    
 
 
 <h3>Authors </h3> 
